@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Site secret"
+AuthUserFile "C:\Users\jessi\Desktop\esplanade
+Require valid-user

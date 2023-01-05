@@ -1,0 +1,117 @@
+html,
+    body {
+        background-color: #030255;
+    }
+
+
+	
+	a:hover{
+		text-decoration: none;		
+	}
+    .day{
+        background-image: url(../img/housing.jpg);
+        background-size: cover;
+
+    }
+
+    .day02{
+        background-image: url(../img/concours.jpg);
+        background-size: cover;
+    }
+
+    .day03{
+        background-image: url(../img/celebration.jpg);
+        background-size: cover;
+    }
+
+    .day04{
+        background-image: url(../img/rooms.jpg);
+        background-size: cover;
+    }
+
+    .day05{
+        background-image: url(../img/ghetto.jpg);
+        background-size: cover;
+    }
+
+    .day06{
+        background-image: url(../img/longueur.jpg);
+        background-size: cover;
+    }
+
+    .day07{
+        background-image: url(../img/portes01.jpg);
+        background-size: 200px 200px;
+    }
+
+    .day08{
+        background-image: url(../img/portes02.jpg);
+        background-size: 200px 200px;
+    }
+
+    .day09{
+        background-image: url(../img/portes03.jpg);
+        background-size: 200px 200px;
+    }
+
+    .day10{
+        background-image: url(../img/portes04.jpg);
+        background-size: 200px 200px;
+    }
+
+    @media only screen and (max-width: 500px) { 
+.day{
+        background-image: url(../img/crise.jpg);
+        background-size: cover;
+
+    }
+
+    .day02{
+        background-image: url(../img/esplanade.jpg);
+        background-size: cover;
+    }
+
+    .day03{
+        background-image: url(../img/inauguration.jpg);
+        background-size: cover;
+    }
+
+    .day04{
+        background-image: url(../img/pieces.jpg);
+        background-size: cover;
+    }
+
+    .day05{
+        background-image: url(../img/ghetto.jpg);
+        background-size: cover;
+    }
+
+    .day06{
+        background-image: url(../img/longuer.jpg);
+        background-size: cover;
+    }
+
+    .day07{
+        background-image: url(../img/portes01.jpg);
+        background-size: 100% 90%;
+    }
+
+    .day08{
+        background-image: url(../img/portes02.jpg);
+        background-size:100% 90%;
+    }
+
+    .day09{
+        background-image: url(../img/portes03.jpg);
+        background-size:100% 90%;
+    }
+
+    .day10{
+        background-image: url(../img/portes04.jpg);
+        background-size:100% 90%;
+    }
+
+    }
+
+
+
