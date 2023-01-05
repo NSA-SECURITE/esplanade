@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Site secret"
-AuthUserFile home\esplanade
-Require valid-user
