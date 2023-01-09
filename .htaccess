@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Accès protégé"
-AuthUserFile /home/esplanade/.htpasswd
-require valid-user
